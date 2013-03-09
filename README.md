@@ -5,6 +5,7 @@ Paródia da música MALANDRAGEM falando sobre o dia-a-dia de um Sobrinho :)
 
 *Dê play e vá seguindo a letra abaixo*
 <iframe width="420" height="315" src="http://www.youtube.com/embed/UkGF4RdxrWs" frameborder="0" allowfullscreen></iframe>
+[![Ouça a música no Youtube](https://f.cloud.github.com/assets/736728/239353/1ce71a8c-8884-11e2-9f66-30f0d7e8eacd.PNG)](http://j.mp/Y37GQK)
 
 Quem sabe eu ainda sou um sobrinho,<br>
 fazendo sites inteiros, sozinho.
