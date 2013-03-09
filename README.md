@@ -6,54 +6,54 @@ Paródia da música MALANDRAGEM falando sobre o dia-a-dia de um Sobrinho :)
 *Dê play e vá seguindo a letra abaixo*
 <iframe width="420" height="315" src="http://www.youtube.com/embed/UkGF4RdxrWs" frameborder="0" allowfullscreen></iframe>
 
-Quem sabe eu ainda sou um sobrinho,
+Quem sabe eu ainda sou um sobrinho,<br>
 fazendo sites inteiros, sozinho.
 
-Cansado usando windows pirata,
-procurando script pronto no Google.
+Cansado usando windows pirata,<br>
+procurando script pronto no Google.<br>
 Vou ser um webmaster.
 
-Quem não sabe Dreamweaver, virou otário.
-Escrever código é um saco,
+Quem não sabe Dreamweaver, virou otário.<br>
+Escrever código é um saco,<br>
 quem sabe código não é normal.
 
-Haa, eu só peço ao dream(weaver),
-um botão aqui eum link ali.
-Pois sou sobrinho,
+Haa, eu só peço ao dream(weaver),<br>
+um botão aqui eum link ali.<br>
+Pois sou sobrinho,<br>
 não sei nem por imagem.
 
-Eu sou dev, e não aprendi a programar.
+Eu sou dev, e não aprendi a programar.<br>
 Eu sou dev, e não aprendi a programar.
 
-Bobeira é não usar o Dreamweaver,
+Bobeira é não usar o Dreamweaver,<br>
 E ele ainda tem um monte de plugin ^^
 
-Eu testo no IE, e tudo funciona,
+Eu testo no IE, e tudo funciona,<br>
 mudo uma tabela de lugar.
 
-Animo com flash, até com silverlight.
+Animo com flash, até com silverlight.<br>
 e ainda bloqueio o botão direito do mouse.
 
-Haa, eu só peço ao dream(weaver),
-um botão aqui eum link ali.
-Pois sou sobrinho,
+Haa, eu só peço ao dream(weaver),<br>
+um botão aqui eum link ali.<br>
+Pois sou sobrinho,<br>
 não sei nem por imagem.
 
-Eu sou dev, e não aprendi a programar.
+Eu sou dev, e não aprendi a programar.<br>
 Eu sou dev, e não aprendi a programar.
 
-Eu testo no IE, e tudo funciona,
+Eu testo no IE, e tudo funciona,<br>
 mudo uma tabela de lugar.
 
-Animo com flash, até com silverlight.
+Animo com flash, até com silverlight.<br>
 e ainda bloqueio o botão direito do mouse.
 
-Haa, eu só peço ao dream(weaver),
-um botão aqui eum link ali.
-Pois sou sobrinho,
+Haa, eu só peço ao dream(weaver),<br>
+um botão aqui eum link ali.<br>
+Pois sou sobrinho,<br>
 não sei nem por imagem.
 
-Eu sou dev, e não aprendi a programar.
+Eu sou dev, e não aprendi a programar.<br>
 Eu sou dev, e não aprendi a programar.
 
 Quem sabe eu ainda sou um sobrinho.
