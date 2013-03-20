@@ -1,13 +1,7 @@
-Quem Sabe Eu Ainda Sou Um Sobrinho
-==================================
+Sobrinhagem
+===========
 
-Paródia da música MALANDRAGEM falando sobre o dia-a-dia de um Sobrinho :)
-
-*Dê play e vá seguindo a letra abaixo*
-<iframe width="420" height="315" src="http://www.youtube.com/embed/UkGF4RdxrWs" frameborder="0" allowfullscreen></iframe>
-<a href="http://j.mp/Y37GQK" target="_blank" title="Ouça a música no Youtube">
-	![Ouça a música no Youtube](https://f.cloud.github.com/assets/736728/239353/1ce71a8c-8884-11e2-9f66-30f0d7e8eacd.PNG)
-</a>
+Paródia de "Malandragem", do Cazuza, famosa na voz de Cássia Eller
 
 Quem sabe eu ainda sou um sobrinho,<br>
 fazendo sites inteiros, sozinho.
@@ -37,10 +31,10 @@ mudo uma tabela de lugar.
 Animo com flash, até com silverlight.<br>
 e ainda bloqueio o botão direito do mouse.
 
-Haa, eu só peço ao dream(weaver),<br>
-um botão aqui eum link ali.<br>
-Pois sou sobrinho,<br>
-não sei nem por imagem.
+Eu só sei fazer<br>
+um monte de sobrinhagem,<br>
+Pois sou sobrinho<br>
+e não sei nem pôr imagem.
 
 Eu sou dev, e não aprendi a programar.<br>
 Eu sou dev, e não aprendi a programar.
@@ -51,10 +45,10 @@ mudo uma tabela de lugar.
 Animo com flash, até com silverlight.<br>
 e ainda bloqueio o botão direito do mouse.
 
-Haa, eu só peço ao dream(weaver),<br>
-um botão aqui eum link ali.<br>
-Pois sou sobrinho,<br>
-não sei nem por imagem.
+Eu só sei fazer<br>
+um monte de sobrinhagem,<br>
+Pois sou sobrinho<br>
+e não sei nem pôr imagem.
 
 Eu sou dev, e não aprendi a programar.<br>
 Eu sou dev, e não aprendi a programar.
