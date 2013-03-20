@@ -1,7 +1,7 @@
 Sobrinhagem
 ===========
 
-Paródia de "Malandragem", do Cazuza, famosa na voz de Cássia Eller
+*Paródia de "Malandragem", do Cazuza, famosa na voz de Cássia Eller*
 
 Quem sabe eu ainda sou um sobrinho,<br>
 fazendo sites inteiros, sozinho.
@@ -14,10 +14,10 @@ Quem não sabe Dreamweaver, virou otário.<br>
 Escrever código é um saco,<br>
 quem sabe código não é normal.
 
-Haa, eu só peço ao dream(weaver),<br>
-um botão aqui eum link ali.<br>
-Pois sou sobrinho,<br>
-não sei nem por imagem.
+Eu só sei fazer<br>
+um monte de sobrinhagem,<br>
+Pois sou sobrinho<br>
+e não sei nem pôr imagem.
 
 Eu sou dev, e não aprendi a programar.<br>
 Eu sou dev, e não aprendi a programar.
